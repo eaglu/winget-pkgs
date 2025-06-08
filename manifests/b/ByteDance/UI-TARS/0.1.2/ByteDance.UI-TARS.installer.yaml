@@ -16,7 +16,7 @@ ProductCode: UI-TARS
 ReleaseDate: 2025-05-16
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/bytedance/UI-TARS-desktop/releases/download/v0.1.2/UI.TARS-0.1.2.Setup.exe
-  InstallerSha256: 5AC11AFA67B8E30B11167ECFE68930381A0F8616675788DCEBF8C39921323F10
+  InstallerUrl: https://github.com/bytedance/UI-TARS-desktop/releases/download/v0.1.2/UI-TARS-0.1.2.Setup.exe
+  InstallerSha256: 9416FD1CA60104B031AC5250A17BD4C8488295140CBB9664458042C97FE8CF10
 ManifestType: installer
 ManifestVersion: 1.10.0
